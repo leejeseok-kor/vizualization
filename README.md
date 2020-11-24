@@ -1,4 +1,5 @@
 # vizualization
 use R and Python
 
-in class
+1. In Class
+2. Read Book
